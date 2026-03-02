@@ -100,4 +100,3 @@ esac
 rm -rf AnyKernel3/
 echo -e "${GREEN}Build finished${NC}"
 echo -e "File: ${PURPLE}$(pwd)/output/$KERNNAME-$KERNVER-$BUILDDATE.zip${NC}"
-
